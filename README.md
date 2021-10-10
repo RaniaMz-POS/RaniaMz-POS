@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaniaMz-POS
 - 👀 I’m interested in Web Development in general
-- 🌱 I’m currently learning django stuff: Microservices, REST API's, and Integration between different technologies
+- 🌱 I’m currently working in django stuff: Microservices, REST API's, and Integration between different technologies
 - 💞️ I’m looking to collaborate on Backend projects
 - 📫 How to reach me: r.almazari@posrocket.com
 
